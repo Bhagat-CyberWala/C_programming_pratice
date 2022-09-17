@@ -1,8 +1,4 @@
 #include <stdio.h>
-//upper
-//lower
-//special xar
-//digit
 int leap_year();
 
 int main() 
